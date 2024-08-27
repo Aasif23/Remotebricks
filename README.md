@@ -50,7 +50,7 @@ STEP1: pip install -r requirements.txt
 
 STEP2: cd app/
 
-STEP3: RUN command "uvicorn main:app --reload"
+STEP3: Run command "uvicorn main:app --reload"
 
 STEP4: Testing the API:
 
